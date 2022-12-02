@@ -1,17 +1,63 @@
+body{
+    font-family: "Montserrat";
+}
+
 #title{
-    background-color: #FFB9B9;
+    background-color: #FF74B1;
+    color: #fff;
 }
 #title-quote{
     font-family: 'Prompt', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
+    padding-bottom: 30px;
 }
-.navbar-brand{
-    font-family: 'Nerko One', cursive;
-}
+
 .container-fluid{
     padding: 3% 6%;
 }
+
+ /* Navigation Bar */
+
+ .navbar{
+    padding-bottom: 3.5rem;
+ }
+
+ .nav-link{
+    border-left: 2px solid white;
+    color: black;
+ }
+
+.navbar-brand{
+    font-family: 'Nerko One', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: yellow;
+}
 #navbarTogglerDemo01{
     font-weight: bold;
+}
+.download-button{
+    margin: 0 15px 0;
+}
+#main-pic{
+    height: 90%;
+    width: 80%;
+}
+
+#features{
+    background-color: #FF884B;
+}
+.features-row{
+    padding-top: 150px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+.descrip-para{
+    font-family: 'Mukta', sans-serif;
+    color: white;
+    width: 60%;
+    margin: auto;
 }
