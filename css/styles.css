@@ -1,0 +1,17 @@
+#title{
+    background-color: #FFB9B9;
+}
+#title-quote{
+    font-family: 'Prompt', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.navbar-brand{
+    font-family: 'Nerko One', cursive;
+}
+.container-fluid{
+    padding: 3% 6%;
+}
+#navbarTogglerDemo01{
+    font-weight: bold;
+}
