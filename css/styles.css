@@ -3,7 +3,7 @@ body{
 }
 
 #title{
-    background-color: #FF74B1;
+    background-color: #7FBCD2;
     color: #fff;
 }
 #title-quote{
@@ -40,24 +40,34 @@ body{
 .download-button{
     margin: 0 15px 0;
 }
+
+.row{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
 #main-pic{
     height: 90%;
     width: 80%;
 }
 
 #features{
-    background-color: #FF884B;
+    background-color: #FFDDD2;
 }
 .features-row{
-    padding-top: 150px;
+    padding-top: 40px;
     padding-bottom: 20px;
     text-align: center;
 }
 
-
 .descrip-para{
     font-family: 'Mukta', sans-serif;
-    color: white;
+    color: grey;
     width: 60%;
     margin: auto;
+}
+
+
+.feature-img{
+    height: 180px;
+    width: 220px;
 }
